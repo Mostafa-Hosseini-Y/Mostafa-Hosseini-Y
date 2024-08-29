@@ -1,5 +1,3 @@
-Here's the updated list with RESTful APIs added back in:
-
 ### 🛠️ **Skills and Technologies:**
 
 #### **Programming Languages:**  
