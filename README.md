@@ -39,5 +39,3 @@
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white&style=flat-square)
 ![vue-leaflet](https://img.shields.io/badge/-vue--leaflet-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![OpenLayers](https://img.shields.io/badge/-OpenLayers-1F6B75?logo=openlayers&logoColor=white&style=flat-square)
-
-این تغییرات مهارت‌های جدید شما را شامل می‌شوند.
