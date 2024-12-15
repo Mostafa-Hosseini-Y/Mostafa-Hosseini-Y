@@ -22,3 +22,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Hosseini-Y&show_icons=true&count_private=true&hide_title=true&theme=dark&access_token=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)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mostafa-Hosseini-Y&theme=flat&no-frame=true&margin-w=10)
+
+![GitHub Repo](https://img.shields.io/github/repos/YourUsername?style=social)
+
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react)
+
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=flat&no-frame=true&margin-w=10)
