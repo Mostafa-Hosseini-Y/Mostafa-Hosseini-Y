@@ -20,3 +20,9 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Hosseini-Y)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Hosseini-Y&theme=github)
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mostafa-Hosseini-Y)
+
