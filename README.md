@@ -17,3 +17,14 @@
 
 #### **Mapping Libraries:**  
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white&style=flat-square) ![vue-leaflet](https://img.shields.io/badge/-vue--leaflet-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ![OpenLayers](https://img.shields.io/badge/-OpenLayers-1F6B75?logo=openlayers&logoColor=white&style=flat-square)
+
+
+# My GitHub Stats
+
+## Overview
+Here are some stats about my GitHub profile:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
