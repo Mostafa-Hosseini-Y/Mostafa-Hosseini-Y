@@ -20,3 +20,5 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Mostafa-Hosseini-Y&theme=dark&row=1&column=3&no-frame=true&access_token=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)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Hosseini-Y&show_icons=true&count_private=true&hide_title=true&theme=dark&access_token=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)
+
